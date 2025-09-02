@@ -20,8 +20,7 @@ Permite adicionar, editar, marcar como concluída e excluir tarefas de forma int
 - ✏️ Editar tarefas existentes  
 - ✔️ Marcar como concluídas  
 - 🗑️ Excluir tarefas  
-- 🌙 Alternar entre **modo claro** e **modo escuro**  
-- 💅 Interface moderna e responsiva  
+- 🌙 Alternar entre **modo claro** e **modo escuro**   
 
 ---
 
@@ -54,12 +53,12 @@ Clone este repositório:
 
 bash
 Copiar código
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Gu-Vas-Silva/CRUD-lista-de-tarefas.git
 Entre na pasta do projeto:
 
 bash
 Copiar código
-cd nome-do-repositorio
+cd CRUD-lista-de-tarefas
 Instale as dependências:
 
 bash
